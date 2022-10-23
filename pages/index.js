@@ -64,8 +64,8 @@ export default function Home() {
           </ul>
           <a
           className=" w-44 bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8 "
-          href="ROBERTO ATHOS.pdf"
-          download="Roberto Athos CV.pdf" 
+          href="Roberto Athos CV.rar"
+          download="Roberto Athos CV.rar" 
         >
           {t.DownloadCv}
         </a>
