@@ -14,7 +14,7 @@ import web2 from "../public/Colegio.png";
 import web3 from "../public/space turism.jpg";
 import web4 from "../public/tesla ui.png";
 import web5 from "../public/irpf.png";
-import web6 from "../public/cryptopage.png";
+import web6 from "../public/taskify.png";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import br from '../locales/pt-BR/home'
@@ -64,8 +64,8 @@ export default function Home() {
           </ul>
           <a
           className=" w-44 bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8 "
-          href="Roberto Athos CV.rar"
-          download="Roberto Athos CV.rar" 
+          href="cvs.rar"
+          download="cvs.rar" 
         >
           {t.DownloadCv}
         </a>
@@ -244,11 +244,11 @@ export default function Home() {
                 src={web6}
               />
               <div className="p-4">
-                <span className="text-xl text-cyan-500">Crypto Page</span>
+                <span className="text-xl text-cyan-500">Taskify, GPT-3 App</span>
                 <p className="mt-4 mb-4">{t.ProjectDescription6}</p>
                 <div className="flex flex-col">
-                <Link href='https://github.com/RobertoAthos/Crypto-Page'><a className="underline mb-2 hover:text-blue-500"> Github</a></Link>
-                <Link href='https://crypto-login-web3.vercel.app/'><a className="underline mb-2 hover:text-blue-500">Url site</a></Link>
+                <Link href='https://github.com/RobertoAthos/AiSolve-GPT3'><a className="underline mb-2 hover:text-blue-500"> Github</a></Link>
+                <Link href='https://taskifyai.vercel.app/'><a className="underline mb-2 hover:text-blue-500">Url site</a></Link>
                 </div>
               </div>
             </div>

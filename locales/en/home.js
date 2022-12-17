@@ -7,7 +7,7 @@ export default {
         "ProjectDescription3": "Challenge of a Mentor frontend application",
         "ProjectDescription4": "Tesla website clone",
         "ProjectDescription5": "An application with a proposal to help people declare their Internal Revenue Service without doubts, explaining steps on how the declaration works.",
-        "ProjectDescription6": "Project that links web3 with html, css and javascript, connecting the metamask wallet",
+        "ProjectDescription6": "An application made with the AI GPT-3, using OpenAi´s api to create features that will be able to solve some people´s problems.",
         "ProjectTitle1": "Tech-school | School Management System",
         "ProjectTitle2": "Brazilian Internal Revenue Service",
         "SkillsDescription1": "I'm no expert, but I know how to get by when it comes to being creative with design",

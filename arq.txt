@@ -1,0 +1,19 @@
+<div className="basis-1/3 flex-1 bg-slate-50 rounded-2xl shadow-lg">
+              <Image
+                className="rounded-lg object-cover shadow-sm"
+                width={"100%"}
+                height={"100%"}
+                layout="responsive"
+                src={web6}
+              />
+              <div className="p-4">
+                <span className="text-xl text-cyan-500">Taskify, GPT-3 App</span>
+                <p className="mt-4 mb-4">{t.ProjectDescription6}</p>
+                <div className="flex flex-col">
+                <Link href='https://github.com/RobertoAthos/AiSolve-GPT3'><a className="underline mb-2 hover:text-blue-500"> Github</a></Link>
+                <Link href='https://taskifyai.vercel.app/'><a className="underline mb-2 hover:text-blue-500">Url site</a></Link>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="w-full flex justify-center"><button className="bg-blue-500 text-white p-6 rounded-md hover:bg-blue-700"><Link href='https://github.com/RobertoAthos?tab=repositories'><a>{t.VerMaisBtn}</a></Link></button></div>

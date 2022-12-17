@@ -7,7 +7,7 @@ export default {
      "ProjectDescription3": "Desafio de uma aplicação do frontend Mentor", 
      "ProjectDescription4": "Clone do site da Tesla", 
      "ProjectDescription5": "Uma aplicação com uma proposta de ajudar pessoas a declararem seu IRPF sem dúvidas, explicando etapas de como funciona a declaração.", 
-     "ProjectDescription6": "Projeto que liga a web3 com html,css e javascript, fazendo conexão da carteira metamask", 
+     "ProjectDescription6": "Aplicação usando a inteligência artificial da OpenAi (GPT-3), usufruindo de sua api para criar várias features que ajudam pessoas com suas tarefas do cotidiano.", 
      "ProjectTitle1": "Tech-school | Sistema de Gestão Escolar", 
      "ProjectTitle2": "Relayout Imposto de Renda",
      "SkillsDescription1": "Não sou nenhum especialista, mas sei me virar na hora de ser criativo com o design", 
