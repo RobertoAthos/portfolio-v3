@@ -1,7 +1,7 @@
 export default {
         "DownloadCv": "Download full cv",
         "Frase": "Plan for success, or expect failure",
-        "PortfolioDescription": "Now you can take a closer look at some of my best projects, some are already in production.",
+        "PortfolioDescription": "Now you can take a closer look at some of my best projects.",
         "ProjectDescription1": "School management system to help educational institutions improve their organization and professional performance, with tools to facilitate school life. It is important that you read the github read.me before entering the site.",
         "ProjectDescription2": "A simple Landing Page with html, css and javascript, made for the school where I studied most of my life.",
         "ProjectDescription3": "Challenge of a Mentor frontend application",

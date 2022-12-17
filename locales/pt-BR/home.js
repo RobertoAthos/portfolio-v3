@@ -1,7 +1,7 @@
 export default {
     "DownloadCv": "Baixar Cv completo",
     "Frase": "Planeje o sucesso, ou espere o fracasso",
-    "PortfolioDescription": "Agora você pode ver mais de perto alguns dos meus melhores projetos, alguns já se encontram em produção.",
+    "PortfolioDescription": "Agora você pode ver mais de perto alguns dos meus melhores projetos.",
     "ProjectDescription1": "Sistema de gestão escolar para ajudar instituições de ensinos à melhorar sua organização e desempenho profissional, contando com ferramentas para facilitar a vida escolar. É importante que leia o read.me do github antes de entrar no site.",
      "ProjectDescription2": "Uma Landing Page simples com html,css e javascript, feito para a escola onde estudei grande parte da minha vida.", 
      "ProjectDescription3": "Desafio de uma aplicação do frontend Mentor", 

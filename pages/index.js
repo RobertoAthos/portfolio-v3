@@ -118,13 +118,15 @@ export default function Home() {
              {t.SkillsDescription2}
               </p>
               <h4 className="py-4 text-teal-600">Stacks</h4>
-              <p className="text-gray-800 py-1">Reactjs</p>
               <p className="text-gray-800 py-1">Html</p>
               <p className="text-gray-800 py-1">Css</p>
               <p className="text-gray-800 py-1">Javascript</p>
+              <p className="text-gray-800 py-1">Reactjs</p>
+              <p className="text-gray-800 py-1">Nextjs</p>
+              <p className="text-gray-800 py-1">Typescript</p>
               <p className="text-gray-800 py-1">Redux</p>
               <p className="text-gray-800 py-1">Style-Components</p>
-              <p className="text-gray-800 py-1">Tailwind</p>
+              <p className="text-gray-800 py-1">GraphQl</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={consulting} width={100} height={100} />
@@ -138,6 +140,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Firebase</p>
               <h4 className="py-4 text-teal-600">Database:</h4>
               <p className="text-gray-800 py-1">Mongo DB</p>
+              <p className="text-gray-800 py-1">PostgresSQL</p>
             </div>
           </div>
         </section>
